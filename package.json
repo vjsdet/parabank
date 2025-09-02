@@ -1,0 +1,15 @@
+{
+  "name": "parabank-playwright",
+  "version": "1.0.0",
+  "description": "E2E Test Automation for Para Bank using Playwright",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.41.0",
+    "typescript": "^5.2.0"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^5.2.5"
+  }
+}
