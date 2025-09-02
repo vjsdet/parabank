@@ -2,7 +2,7 @@
 
 - Clone the repo using below command.
 
-  **git clone [repo_url](https://github.com/vjsdet/parabank)**
+  **git clone [https://github.com/vjsdet/parabank](https://github.com/vjsdet/parabank)**
 
 - Install Node.js from below URL.
 
@@ -30,4 +30,5 @@
 
       **npx playwright show-report**
   
+
 
